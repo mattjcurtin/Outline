@@ -182,11 +182,11 @@
     },
     "font-family": {
       "sans": {
-        "value": "TP Rubrik",
+        "value": "Raleway",
         "type": "fontFamilies"
       },
       "serif": {
-        "value": "Georgia",
+        "value": "Spectral",
         "type": "fontFamilies"
       }
     },
