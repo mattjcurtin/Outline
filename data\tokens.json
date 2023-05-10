@@ -1093,30 +1093,42 @@
     },
     "color": {
       "primary": {
+        "bolder": {
+          "value": "{color.blue.900}",
+          "type": "color"
+        },
+        "bold": {
+          "value": "{color.blue.800}",
+          "type": "color"
+        },
         "default": {
-          "value": "{color.blue.800}",
-          "type": "color"
-        },
-        "dark": {
-          "value": "{color.blue.800}",
-          "type": "color"
-        },
-        "light": {
           "value": "{color.blue.600}",
+          "type": "color"
+        },
+        "mild": {
+          "value": "{color.blue.400}",
+          "type": "color"
+        },
+        "milder": {
+          "value": "{color.blue.200}",
+          "type": "color"
+        },
+        "mildest": {
+          "value": "{color.blue.100}",
           "type": "color"
         }
       },
       "secondary": {
-        "dark": {
-          "value": "{color.red.800}",
+        "bold": {
+          "value": "{color.green.800}",
           "type": "color"
         },
         "default": {
-          "value": "{color.red.700}",
+          "value": "{color.green.600}",
           "type": "color"
         },
-        "light": {
-          "value": "{color.red.600}",
+        "mild": {
+          "value": "{color.green.400}",
           "type": "color"
         }
       },
@@ -1204,40 +1216,36 @@
   },
   "dark": {
     "theme": {
-      "dark": {
-        "page": {
-          "background": {
-            "value": "{color.black.default}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{color.white.default}",
-            "type": "color"
-          },
-          "path": {
-            "value": "{color.gray.900}",
-            "type": "color"
-          }
+      "page": {
+        "background": {
+          "value": "{color.black.default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{color.white.default}",
+          "type": "color"
+        },
+        "path": {
+          "value": "{color.gray.900}",
+          "type": "color"
         }
       }
     }
   },
   "light": {
     "theme": {
-      "light": {
-        "page": {
-          "background": {
-            "value": "{color.white.default}",
-            "type": "color"
-          },
-          "text": {
-            "value": "{color.black.default}",
-            "type": "color"
-          },
-          "path": {
-            "value": "{color.white.default}",
-            "type": "color"
-          }
+      "page": {
+        "background": {
+          "value": "{color.white.default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{color.black.default}",
+          "type": "color"
+        },
+        "path": {
+          "value": "{color.white.default}",
+          "type": "color"
         }
       }
     }
