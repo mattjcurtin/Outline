@@ -1291,6 +1291,14 @@
           "value": "{color.gray.900}",
           "type": "color"
         }
+      },
+      "border": {
+        "color": {
+          "value": {
+            "color": "{color.neutral.white}"
+          },
+          "type": "border"
+        }
       }
     }
   },
@@ -1308,6 +1316,14 @@
         "path": {
           "value": "{color.neutral.milder}",
           "type": "color"
+        }
+      },
+      "border": {
+        "color": {
+          "value": {
+            "color": "{color.neutral.bold}"
+          },
+          "type": "border"
         }
       }
     }
