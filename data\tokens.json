@@ -1328,7 +1328,26 @@
       }
     }
   },
-  "component/button": {},
+  "component/button": {
+    "button": {
+      "primary": {
+        "background": {
+          "color": {
+            "value": "{color.primary.bolder}",
+            "type": "color"
+          }
+        }
+      },
+      "secondary": {
+        "background": {
+          "color": {
+            "value": "{color.secondary.bolder}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
   "component/card": {},
   "$themes": [],
   "$metadata": {
