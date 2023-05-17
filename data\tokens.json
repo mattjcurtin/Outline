@@ -139,7 +139,7 @@
       },
       "black": {
         "default": {
-          "value": "#000",
+          "value": "#171717",
           "type": "color"
         }
       },
